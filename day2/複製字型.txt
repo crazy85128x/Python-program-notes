@@ -1,0 +1,4 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Lib\site-packages\matplotlib\mpl-data\fonts\ttf
+
+
+複製字型過去
